@@ -130,6 +130,24 @@ Frontend: `http://localhost:5173`
 
 ---
 
+## 📸 Screenshots
+
+### 🧾 Issue Certificate
+![Issue](assets/issue.png)
+
+### 🔍 Verify Certificate
+![Verify](assets/verify.png)
+
+### 📊 Dashboard View
+![Dashboard](assets/dashboard.png)
+
+### 🔗 Blockchain Transaction (Stellar Explorer)
+![Transaction](assets/transaction.png)
+
+---
+
+
+
 ## API overview
 - **POST** `/api/certificates/issue`
   - Body: `{ studentName, courseName, issuedOn, issuerPublicKey }`
@@ -157,8 +175,8 @@ Frontend: `http://localhost:5173`
 ---
 
 ## Team members
-- Student 1: __________________ (Roll No: ________)
-- Student 2: __________________ (Roll No: ________)
+- Student 1: KARTIK METAGUDD (Roll No: 1DS23IC017)
+- Student 2: RISHU KUMAR (Roll No: 1DS23IC038)
 
 
 ## License
