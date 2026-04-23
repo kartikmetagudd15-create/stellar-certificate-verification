@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.*
+.DS_Store
+.vscode/
+
+# Rust / Soroban
+target/
+*.wasm
+
+# local db
+backend/data/
+
