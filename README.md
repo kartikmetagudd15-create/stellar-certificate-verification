@@ -130,19 +130,19 @@ Frontend: `http://localhost:5173`
 
 ---
 
-## 📸 Screenshots
+## Application Preview
 
-### 🧾 Issue Certificate
+### Blockchain Transaction (Stellar Explorer)
+![Transaction](assets/transaction.png)
+
+### Issue Certificate
 ![Issue](assets/issue.png)
 
-### 🔍 Verify Certificate
+### Verify Certificate
 ![Verify](assets/verify.png)
 
-### 📊 Dashboard View
+### Dashboard View
 ![Dashboard](assets/dashboard.png)
-
-### 🔗 Blockchain Transaction (Stellar Explorer)
-![Transaction](assets/transaction.png)
 
 ---
 
@@ -178,8 +178,8 @@ Frontend: `http://localhost:5173`
 - Student 1: KARTIK METAGUDD (Roll No: 1DS23IC017)
 - Student 2: RISHU KUMAR (Roll No: 1DS23IC038)
 
-
 ## License
 
-MIT (or update this section to match your institution’s requirements).
+This project is licensed under the MIT License — you are free to use, modify, and distribute this software with proper attribution.
+
 
